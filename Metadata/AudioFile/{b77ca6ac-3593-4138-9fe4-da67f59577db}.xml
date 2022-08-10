@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{b77ca6ac-3593-4138-9fe4-da67f59577db}">
+		<property name="assetPath">
+			<value>names-climax.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>172.80000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8b4f9ac6-b1e1-4f9b-b9e2-b4049302a4df}</destination>
+		</relationship>
+	</object>
+</objects>
